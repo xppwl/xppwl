@@ -26,9 +26,8 @@
 ---
 
 ### 📊 Estatísticas do GitHub 🤓👆
-<p align="center">
-  <img src="https://giphy.com/gifs/nerd-actually-um-8OYnFrez06yQt9zJFW" />
-</p>
+<img width="254" height="200" alt="200" src="https://github.com/user-attachments/assets/b48df2e5-45d8-4845-b115-47c7bdca375b" />
+
 
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xppwl&layout=compact&theme=radical) |
 | :--- | :--- |
