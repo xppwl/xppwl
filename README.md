@@ -42,12 +42,12 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsbzBnbGZpY2VtYmxsb2Fodnhub2owdTZmbnNhbHkwb3RjY2NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4DhwmL0CZSe8BlJH9/giphy.gif" />
 </p>
 
-[![Discord](https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/in/xppwl)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.crotti@escola.pr.gov.br)
 [![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://www.steam.com/in/xppwl)
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=O%20Tinha%20uma%20pedra%20o%20no%20meuO%20caminho.%20&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=O%20Tinha%20uma%20pedra%20o%20no%20meu%20caminho.%20&fontSize=25" />
 </p>
-> "Tem uma pedra, tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
+> – texto da aula de português
