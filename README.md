@@ -6,36 +6,43 @@
 
 --
 
-### 🎨 Sobre Mim
+### 🚩 Sobre Mim:
 
-- 🎮 **Gaming:** Jogo de tudo um pouco, sem distinção.
+- 🎮 **Gaming:** Jogo de tudo um pouco.
 - 🎵 **Música:** Curto o que soar bem aos ouvidos (sem preferência musical fixa).
 - 📚 **Hobby:** Leitor assíduo de **Manhwa** e fã de **Animes**.
-- 💻 **Dev:** Estudando tecnologias para criar projetos incríveis.
+- 💻 **Dev:** Estudando tecnologias para criar projetos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ TecnolÔgías:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub 🤓👆
+<p align="center">
+  <img src="https://giphy.com/gifs/nerd-actually-um-8OYnFrez06yQt9zJFW" />
+</p>
 
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xppwl&layout=compact&theme=radical) |
 | :--- | :--- |
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Call me, baby ❤️
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsbzBnbGZpY2VtYmxsb2Fodnhub2owdTZmbnNhbHkwb3RjY2NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4DhwmL0CZSe8BlJH9/giphy.gif" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.crotti@escola.pr.gov.br)
 
 ---
 
