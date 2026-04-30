@@ -1,10 +1,10 @@
 # Héllou, my name is Elon Musk! 👋
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=O%20trabalho%20duro%20vence%20o%20talento%20natural." alt="Quote de Anime" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlkMHN6OWdsNTJ6dnVidjRobHk4Y2tqZTZ0NmowN2R6cjM4aXZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aM4FFzsndEiXpgiFKD/giphy.gif" />
 </p>
 
----
+--
 
 ### 🎨 Sobre Mim
 
