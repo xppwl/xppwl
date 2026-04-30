@@ -45,7 +45,7 @@
  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID_AQUI)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.crotti@escola.pr.gov.br)
-[![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://www.steam.com/in/xppwl)
+[![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SEU_ID_DA_STEAM)
 
 
 <p align="center">
