@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em criar soluções efic
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em criar soluções efic
 
 ### 📊 Estatísticas do GitHub
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical) |
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xppwl&layout=compact&theme=radical) |
 | :--- | :--- |
 
 ---
@@ -31,4 +31,5 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em criar soluções efic
 
 ---
 
-> "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
+> "Tem uma pedra
+> tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
