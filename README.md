@@ -1,4 +1,4 @@
-# Héllou, my name is Elon Musk! 👋
+# Héllou, my name is Elon Musk! 👋                                                                                                                     ![Views](https://komarev.com/ghpvc/?username=xppwl-AQUI&color=green)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlkMHN6OWdsNTJ6dnVidjRobHk4Y2tqZTZ0NmowN2R6cjM4aXZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aM4FFzsndEiXpgiFKD/giphy.gif" />
