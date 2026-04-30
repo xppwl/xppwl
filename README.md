@@ -49,6 +49,6 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Tinha%20uma%20pedra%20o%20no%20meu%20caminho.%20&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Tinha%20uma%20pedra%20no%20meu%20caminho.%20&fontSize=25" />
 </p>
 – texto da aula de português
