@@ -10,8 +10,8 @@
 
 - 🎮 **Gaming:** Jogo de tudo um pouco.
 - 🎵 **Música:** Curto o que soar bem aos ouvidos (sem preferência musical fixa).
-- 📚 **Hobby:** Leitor assíduo de **Manhwa** e fã de **Animes**.
-- 💻 **Dev:** Estudando tecnologias para criar projetos.
+- 📚 **Hobby:** Leitor assíduo de **Manhwa** e apreciadora de **Animes**.
+- 💻 **Dev:** Estudando tecnologias para criar projetos cinemas.
 
 ---
 
@@ -47,5 +47,4 @@
 
 ---
 
-> "Tem uma pedra
-> tinha uma pedra, tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
+> "Tem uma pedra, tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
