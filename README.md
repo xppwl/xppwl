@@ -23,6 +23,8 @@
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<img width="477" height="498" alt="sad-bob" src="https://github.com/user-attachments/assets/f62b45b7-f2e5-4b8e-9c75-c0620f7ef0ba" />
+
 ---
 
 ### 📊 Estatísticas do GitHub 🤓👆
