@@ -32,4 +32,4 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em criar soluções efic
 ---
 
 > "Tem uma pedra
-> tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
+> tinha uma pedra, tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
