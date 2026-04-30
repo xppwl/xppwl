@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&label=PROFILE+VIEWS&color=238636&style=flat-square" />
-</p>
-
-# Olá, eu sou o [Seu Nome]! 👋
 # Héllou, my name is Elon Musk! 👋      
 
 
@@ -58,3 +53,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Tinha%20uma%20pedra%20no%20meu%20caminho.%20&fontSize=25" />
 </p>
 – texto da aula de português
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xppwl&color=555555&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
