@@ -1,9 +1,17 @@
-## Héllou, bombom 
-
-
 # Héllou, my name is Elon Musk! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e focado em criar soluções eficientes e elegantes. Atualmente, estou explorando novas tecnologias e aprimorando minhas habilidades em desenvolvimento Full Stack.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=O%20trabalho%20duro%20vence%20o%20talento%20natural." alt="Quote de Anime" />
+</p>
+
+---
+
+### 🎨 Sobre Mim
+
+- 🎮 **Gaming:** Jogo de tudo um pouco, sem distinção.
+- 🎵 **Música:** Curto o que soar bem aos ouvidos (sem preferência musical fixa).
+- 📚 **Hobby:** Leitor assíduo de **Manhwa** e fã de **Animes**.
+- 💻 **Dev:** Estudando tecnologias para criar projetos incríveis.
 
 ---
 
