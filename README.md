@@ -47,5 +47,7 @@
 [![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://www.steam.com/in/xppwl)
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=O%20Tinha%20uma%20pedra%20o%20no%20meuO%20caminho.%20&fontSize=25" />
+</p>
 > "Tem uma pedra, tinha uma pedra no meu caminho, no meu caminho tinha uma pedra." – texto da aula de português
