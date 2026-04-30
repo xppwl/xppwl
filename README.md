@@ -42,7 +42,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsbzBnbGZpY2VtYmxsb2Fodnhub2owdTZmbnNhbHkwb3RjY2NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4DhwmL0CZSe8BlJH9/giphy.gif" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
+[![Discord](https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/in/xppwl)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.crotti@escola.pr.gov.br)
 
 ---
