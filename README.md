@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlkMHN6OWdsNTJ6dnVidjRobHk4Y2tqZTZ0NmowN2R6cjM4aXZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aM4FFzsndEiXpgiFKD/giphy.gif" />
 </p>
 
---
+
 
 ### 🚩 Sobre Mim:
 
@@ -34,7 +34,7 @@
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xppwl&layout=compact&theme=radical) |
 | :--- | :--- |
 
----
+
 
 ### 🤝 Call me, baby ❤️
 
@@ -42,12 +42,14 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdsbzBnbGZpY2VtYmxsb2Fodnhub2owdTZmbnNhbHkwb3RjY2NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4DhwmL0CZSe8BlJH9/giphy.gif" />
 </p>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evelyn.crotti@escola.pr.gov.br)
 [![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://www.steam.com/in/xppwl)
 
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=O%20Tinha%20uma%20pedra%20o%20no%20meu%20caminho.%20&fontSize=25" />
 </p>
-> – texto da aula de português
+– texto da aula de português
