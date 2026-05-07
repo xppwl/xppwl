@@ -61,9 +61,14 @@
 [![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SEU_ID_DA_STEAM)
 
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
-</p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Stephan-Halarewicz/Stephan-Halarewicz/master/assets/fish.gif" width="150" style="margin-top: -120px; position: relative; z-index: 10;">
+  </p>
+</div>
+
 <p align="right">
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
