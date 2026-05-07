@@ -33,6 +33,7 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats-one-bice.vercel.app/api?username=xppwl&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xppwl&layout=compact&theme=radical)
 ### 🤝 Call me, baby ❤️
 
 <p align="center">
