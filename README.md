@@ -1,4 +1,4 @@
-# Héllou, my name is Elon Musk! 👋  <img width="500" height="390" alt="akselav-cat" src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" />
+# Héllou, my name is Elon Musk! 👋  <img width="100" height="100" alt="akselav-cat" src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" />
 
 
 
