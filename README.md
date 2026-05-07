@@ -63,7 +63,7 @@
 
 <p align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text="𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘."&fontSize=30&animation=fadeIn&fontAlignY=40" />
 
 </p>
 
