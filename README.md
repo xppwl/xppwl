@@ -1,6 +1,6 @@
 | | |
 |:--- |:--- |
-| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" align="left" width="300" style="margin-right: 15px;"> |  Héllou, my name is love of your life! 👋 |
+| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" align="left" width="100" style="margin-right: 20px;"> |  Héllou, my name is love of your life! 👋 |
 <br clear="left"/>
 
 <p align="center">
