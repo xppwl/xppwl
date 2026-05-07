@@ -73,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=VISUALIZAÇÕES&message=13&color=8a2be2&style=flat-square&labelColor=222222" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES&color=8a2be2&labelColor=black&logo=github&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fxppwl%2Fvisits" />
 </p>
