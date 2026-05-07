@@ -62,9 +62,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Tinha%20uma%20pedra%20no%20meu%20caminho.%20&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
 </p>
-– texto da aula de português
+<p align="right">
+  <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xppwl&color=555555&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
