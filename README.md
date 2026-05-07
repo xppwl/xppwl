@@ -67,8 +67,7 @@
 <p align="right">
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
-</p>
 
-
+<p>
   <img src="https://img.shields.io/badge/VISUALIZAÇÕES-%20?style=for-the-badge&logo=github&logoColor=white&labelColor=8a2be2&color=222222"><img src="https://komarev.com/ghpvc/?username=xppwl&color=8a2be2&style=for-the-badge&label=">
 </p>
