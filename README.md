@@ -1,10 +1,9 @@
 <div align="center">
-  <span style="font-size: 2em; margin-left: 20px; vertical-align: middle; font-weight: bold;">
-    | | |
-|:--- |:--- |
-| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" align="center" width="100" style="center: 20px;"> |  Héllou, my name is love of your life! 👋 |
-<br clear="center"/>
- </span>
+
+| | |
+| :--- | :--- |
+| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" width="100"> | # &nbsp;&nbsp; Héllou, my name is love of your life! 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+
 </div>
 
 
