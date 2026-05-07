@@ -72,6 +72,59 @@
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES&color=8a2be2&labelColor=black&logo=github&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fxppwl%2Fvisits" />
-</p>
+<div align="center">
+
+  <table width="100%" style="background-color: #1a1a1a; border-radius: 10px; border: 2px solid #6a11cb; box-shadow: 0 4px 8px rgba(0,0,0,0.5); border-collapse: collapse; overflow: hidden; max-width: 600px;">
+    <tr>
+      <td style="padding: 15px; border-bottom: 2px solid #6a11cb;">
+        <h2 style="font-family: monospace; color: white; margin: 0; display: flex; align-items: center; justify-content: center;">
+          <img src="https://img.icons8.com/color/48/github.png" width="30" style="margin-right: 10px;">
+          xppwl's Stats
+        </h2>
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="padding: 20px;">
+        
+        <div style="font-family: monospace; color: white; font-size: 1.1em; display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px solid #333; padding-bottom: 8px;">
+          <span>
+            <img src="https://img.icons8.com/emoji/48/star-emoji.png" width="20" style="vertical-align: sub; margin-right: 8px;">
+            Total Stars:
+          </span>
+          <span style="color: #6a11cb; font-weight: bold;">0</span>
+        </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px;">
+        
+        <div style="font-family: monospace; color: white; font-size: 1.1em; display: flex; justify-content: space-between; margin-bottom: 12px; border-bottom: 1px solid #333; padding-bottom: 8px;">
+          <span>
+            <img src="https://img.icons8.com/emoji/48/party-popper.png" width="20" style="vertical-align: sub; margin-right: 8px;">
+            Commits (2026):
+          </span>
+          <span style="color: #6a11cb; font-weight: bold;">68</span>
+        </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px;">
+        
+        <div style="font-family: monospace; color: white; font-size: 1.1em; display: flex; justify-content: space-between;">
+          <span>
+            <img src="https://img.icons8.com/color/48/graph.png" width="20" style="vertical-align: sub; margin-right: 8px;">
+            Profile Views:
+          </span>
+          <span style="color: #6a11cb; font-weight: bold;">
+            <img src="https://komarev.com/ghpvc/?username=xppwl&color=6a11cb&style=flat-square&label=" alt="Views" style="height: 1.2em; vertical-align: middle;">
+          </span>
+        </td>
+    </tr>
+    
+    <tr>
+      <td style="background-color: #111; padding: 10px; border-top: 1px solid #333; text-align: center;">
+        <span style="color: #888; font-size: 0.8em; font-family: monospace;">A+ Grade Status</span>
+      </td>
+    </tr>
+  </table>
+
+</div>
