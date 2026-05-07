@@ -72,7 +72,6 @@
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/VISUALIZAÇÕES-8a2be2?style=social" />
+  <img src="https://img.shields.io/static/v1?label=VISUALIZAÇÕES&message=13&color=8a2be2&style=flat-square&labelColor=222222" />
 </p>
