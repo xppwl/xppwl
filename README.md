@@ -62,8 +62,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
+  
+  <br>
+  <img src="https://my-readme-stats.vercel.app/api/fish?color=61dafb&speed=5" width="1000">
 </p>
+
 <p align="right">
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
