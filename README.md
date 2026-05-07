@@ -73,7 +73,6 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xppwl&color=555555&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=xppwl&color=6a11cb&style=flat&label=PROFILE+VIEWS" alt="Views" />
 </p>
