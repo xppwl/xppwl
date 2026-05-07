@@ -1,4 +1,4 @@
-# Héllou, my name is love of your life! 👋<img width="100" height="100" alt="100" src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" />
+# Héllou, my name is love of your life! 👋<img width="50" height="50" alt="50" src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" />
 
 
 
