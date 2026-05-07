@@ -74,5 +74,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xppwl&color=8a2be2&style=for-the-badge&label=VISUALIZAÇÕES" alt="Views" />
+  <img src="https://img.shields.io/badge/VISUALIZAÇÕES-8a2be2?style=social" />
 </p>
