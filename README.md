@@ -2,7 +2,7 @@
 
 | | |
 | :--- | :--- |
-| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" width="100"> | <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Héllou,%20my%20name%20is%20love%20of%20your%20life!%20👋😽&fontSize=30&theme=soft"> |
+| <img src="https://github.com/user-attachments/assets/aaadf67f-6e07-43d9-b058-7c2f2c1edd83" width="100"> | <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Héllou,%20my%20name%20is%20love%20of%20your%20life!%20👋😼&fontSize=30&theme=soft"> |
 
 </div>
 
