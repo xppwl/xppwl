@@ -1,5 +1,5 @@
 # Héllou, my name is Elon Musk! 👋
-<img width="100" height="379" alt="200" src="https://github.com/user-attachments/assets/22647a40-41ac-4c15-8ee2-e4f2c5edf1a9" />
+<img width="100" height="100" alt="100" src="https://github.com/user-attachments/assets/22647a40-41ac-4c15-8ee2-e4f2c5edf1a9" />
 
 
 
