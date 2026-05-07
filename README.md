@@ -1,5 +1,6 @@
 # Héllou, my name is Elon Musk! 👋
-![Uploading giphy.gif…]()
+<img width="500" height="379" alt="200" src="https://github.com/user-attachments/assets/22647a40-41ac-4c15-8ee2-e4f2c5edf1a9" />
+
 
 
 
