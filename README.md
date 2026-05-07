@@ -73,6 +73,10 @@
   <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="right">
+  <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xppwl&color=555555&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
