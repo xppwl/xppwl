@@ -61,7 +61,7 @@
 [![Steam](https://img.shields.io/badge/Steam-D14836?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SEU_ID_DA_STEAM)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=twinkling&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2,2575fc&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=twinkling&fontAlignY=40&fontColor=ffffff" />
 </p>
 
 <p align="right">
