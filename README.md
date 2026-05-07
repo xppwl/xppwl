@@ -32,10 +32,7 @@
 <img width="254" height="200" alt="200" src="https://github.com/user-attachments/assets/b48df2e5-45d8-4845-b115-47c7bdca375b" />
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xppwl&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🤝 Call me, baby ❤️
