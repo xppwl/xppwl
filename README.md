@@ -77,4 +77,14 @@
   <img src="https://komarev.com/ghpvc/?username=xppwl&color=8a2be2&style=for-the-badge&label=">
 </p>
     
-  
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2,2575fc&height=200&section=header&text=𝚃𝚒𝚗𝚑𝚊%20𝚞𝚖𝚊%20𝚙𝚎𝚍𝚛𝚊%20𝚗𝚘%20𝚖𝚎𝚞%20𝚌𝚊𝚖𝚒𝚗𝚑𝚘.&fontSize=30&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="right">
+  <em>— texto da aula de português</em> &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VISUALIZAÇÕES-%20?style=for-the-badge&logo=github&logoColor=white&labelColor=8a2be2&color=222222"><img src="https://komarev.com/ghpvc/?username=xppwl&color=8a2be2&style=for-the-badge&label=">
+</p>
