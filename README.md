@@ -32,7 +32,7 @@
 <img width="254" height="200" alt="200" src="https://github.com/user-attachments/assets/b48df2e5-45d8-4845-b115-47c7bdca375b" />
 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xppwl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=xppwl&show_icons=true&theme=radical)
 
 
 ### 🤝 Call me, baby ❤️
